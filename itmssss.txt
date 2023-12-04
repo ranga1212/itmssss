@@ -1,1 +1,36 @@
-hello world
+hidden files-psscan
+dll list- dlllist
+coomad cmd - cmdscan
+notepad process - notepad
+internet history - iehistory
+active terminte conncs- connscan
+tcp/udp - sockets
+pysical addreses registry - hivelist
+virtual addreses registry - hivelist
+shw running services - svcscan
+get password - mimikatz
+hidden malcios - malfind
+network connection - connections
+stored pysical memory - filesscan
+loaded kernal drives- modules
+stores in pysical memory - driverscan
+shw hidden drivers - modscan
+evidense of process hollwing - hollowfind
+scan network artifacts - netscan
+---------------------------------------------
+timezone- system..contrll001..control..timezone----
+info.about OS - software..microsoft..windows NT..currnt version--
+computer name - system..contrl001.. control..computer name---
+last shutdown time - software..microsoft..Windows NT..currentversion..prefectcher..exit time---
+last user login - software..microsoft..windowsNT..currntversion..winlogon..defaultusernme---
+network cand used- software..microsoft..windowsNT..currntversion..networkCard--
+Ip Address and details -- system..contrl001..services..TcpIp..parameters..Interface---
+mac of pc -- system..contrl002..control..class.4D674---
+email client used-- software..client..mail---
+maounted devices -- system..mounted devices--
+image hashes--data sourecs--select..file metadata--
+OS - data artifacts..os inform..select..progrm name--
+installation date/owner--data artifacter..os inform..select..owner/time---
+computer accounts--os account..loginName---
+total account--OS account--
+communicaton program--data arttifacts..instrall programs---
